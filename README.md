@@ -140,7 +140,7 @@ jobs:
               --set frontend.image.tag=${CIRCLE_SHA1}
 ```
 
-## 📊 Key Features
+##  Key Features
 
 ### Production-Ready Deployment
 - **Zero Downtime Deployments**: Rolling updates with health checks
@@ -160,7 +160,7 @@ jobs:
 - **Log Aggregation**: CloudWatch log streaming configuration
 - **Performance Tracing**: Distributed tracing setup
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
